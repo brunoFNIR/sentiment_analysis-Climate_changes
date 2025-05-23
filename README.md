@@ -1,7 +1,8 @@
 # 🌍 Análise de Sentimento sobre Mudanças Climáticas 📊
 
 Este projeto realiza análise de sentimentos em textos relacionados às mudanças climáticas utilizando técnicas de NLP (Natural Language Processing).
-Dados coletados via Reddit
+
+Dados coletados via Reddit.
 
 
 ## 📌 Objetivo
